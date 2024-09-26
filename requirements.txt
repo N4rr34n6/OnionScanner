@@ -1,0 +1,3 @@
+stem
+sqlite3
+requests
